@@ -130,4 +130,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Maryam Sobhani is a Research Scientist in International Relations from the University of Chicago, where her research focused on public diplomacy, naming and shaming, and public opinion. Her research received the Chicago Consular Corps Global Research Award for its novel exploration and policy insights into international diplomacy. Maryam is passionate about understanding the norms and values of a population as it is represented in International Relations literature and the ability of international pressure working on governments for human rights abuses when such norms are contested. 
