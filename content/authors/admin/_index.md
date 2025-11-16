@@ -1,20 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Maryam Sobhani
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
+first_name: Maryam
+last_name: Sobhani
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +16,52 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Scientist | International Relations
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+#organizations:
+ # - name: University of Chicago | Committee on International Relations
+  #  url: https://cir.uchicago.edu/department/committee-on-international-relations/committee-on-international-relations-homepage
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:lmsobhani1@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/lmsobhani
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/l-maryam-sobhani/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-3754-059X
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - International Relations
+  - Human Rights
+  - Geospatial intelligence
+  - International Organizations
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: MA International Relations
+    institution: University of Chicago
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2025-08-22
+    date_end: 2024-09-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: BA Law
+    institution: University of Arizona
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2015-08-24
+    date_end: 2019-05-15
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.88/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Minored in Astronomy.
 
 work:
   - position: Senior AI Research Scientist
