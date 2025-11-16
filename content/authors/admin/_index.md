@@ -64,20 +64,20 @@ education:
       Minored in Astronomy.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Resource Analyst
+    company_name: NOIRLab
+    company_url: 'https://noirlab.edu/public/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2021-08-16
+    date_end: 2024-12-16
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Research Assistant, Nonstate Actor Armed Governance
+    company_name: University of Arizona, School of Government & Public Policy
+    company_url: 'https://sgpp.arizona.edu/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2019-01-06
+    date_end: 2019-05-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -86,7 +86,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
