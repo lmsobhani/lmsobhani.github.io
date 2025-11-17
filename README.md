@@ -1,12 +1,5 @@
 # [Source](https://github.com/HugoBlox/theme-academic-cv)
 
-<h1 align="center">Build an Academic CV and Resumé That Stands Out</h1>
-
-<p align="center">
-  <strong>Your unfair advantage in academia and tech.</strong><br/>
-  Showcase your work, boost your citations, and land your dream job at places like <strong>Meta, Google, and Stanford</strong>.
-</p>
-
 <p align="center">
   <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Deploy Your Free CV in 60s</b></a>
   &nbsp;•&nbsp;
