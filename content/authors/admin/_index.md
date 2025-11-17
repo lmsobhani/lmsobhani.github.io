@@ -2,9 +2,6 @@
 # Display name
 title: Maryam Sobhani
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Maryam
 last_name: Sobhani
@@ -37,10 +34,10 @@ profiles:
     url: https://orcid.org/0009-0009-3754-059X
 
 interests:
-  - International Relations
-  - Human Rights
-  - Geospatial intelligence
-  - International Organizations
+  International Relations
+  Human Rights
+  Public Opinion
+  International Organizations
 
 education:
   - area: MA International Relations
