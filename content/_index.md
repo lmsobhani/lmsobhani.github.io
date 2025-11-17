@@ -33,7 +33,6 @@ sections:
     id: experience.md
     content:
       title: 'Experience'
-      subtitle: ''
     design:
       columns: '1'
   - block: collection
