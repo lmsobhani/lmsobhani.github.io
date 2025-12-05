@@ -23,14 +23,13 @@ concurrency:
 
 jobs:
   # Build website
-  build:
-    if: github.repository_owner != 'HugoBlox'
-    runs-on: ubuntu-latest
-    steps:
+build:
+  runs-on: ubuntu-latest
+  steps:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
+        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
 
     - name: Setup Node.js
@@ -43,18 +42,23 @@ jobs:
       uses: pnpm/action-setup@v4
 
     - name: Install dependencies
+      if: hashFiles('package.json') != ''
       run: |
         # Install Tailwind CLI if package.json exists
-        if [ -f "package.json" ]; then
-          echo "Installing Tailwind dependencies..."
-          pnpm install || npm install
-        fi
+        echo "Installing Tailwind dependencies..."
+        pnpm install || npm install
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
+
+    - name: Clear Hugo module cache
+      run: hugo mod clean
+
+    - name: Install Hugo modules
+      run: hugo mod tidy
 
       # Cache dependencies (Go modules, node_modules) - stable, rarely changes
     - uses: actions/cache@v4
