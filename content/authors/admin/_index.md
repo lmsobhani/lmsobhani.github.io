@@ -104,27 +104,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: Chicago Consular Corps Global Research Award
     url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+    date: '2025-01-01'
+    awarder: Chicago Consular Corps & Committee on International Relations (University of Chicago)
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Awarded for groundbreaking work on efficient training of large models.
+  - title: School of Government & Public Policy Certificate of Excellence
+    url: https://www.nsf.gov/
+    date: '2019-05-01'
+    awarder: The University of Arizona
+    icon: hero/trophy
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      For high academic standing.
 ---
 
 Maryam Sobhani is a Research Scientist in International Relations at the University of Chicago. Her work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. She received the Chicago Consular Corps Global Research Award for research that generated fresh policy insights into diplomatic strategy. Maryam is committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
