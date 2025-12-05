@@ -53,3 +53,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+[module]
+[[module.imports]]
+  path = "github.com/hugo-blox/hugo-blox-builder"
