@@ -59,13 +59,17 @@ sections:
 
 
 
-   # 3. Experience (comes after Skills)
-  - block: markdown
+# 3. Experience (timeline, like the Experience page)
+  - block: resume-experience
     id: experience
     content:
-      title: 'Experience'
+      title: Experience
+      username: admin
     design:
-      columns: '1'
+      date_format: 'January 2006'
+      education_duration: end
+      is_education_first: false
+
 
   - block: collection
     id: papers
