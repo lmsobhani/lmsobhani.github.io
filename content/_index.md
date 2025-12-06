@@ -43,19 +43,19 @@ sections:
           icon: brands/r
 
         - name: Data Analysis
-          icon: hero/chart-line
+          icon: hero/presentation-chart-line
 
         - name: Text Analysis
           icon: hero/language
 
         - name: Data Visualization
-          icon: hero/chart-bar
+          icon: hero/presentation-chart-bar
 
-        - name: Mixed-Methods Research Design
-          icon: hero/squares-2x2
+        - name: Mixed-Methods Research
+          icon: hero/arrows-pointing-in
       design:
        columns: 3
-       css_class: "max-w-5xl mx-auto"
+       css_class: 'max-width: 900px; margin: 0 auto; text-align: center;'
 
 
 
