@@ -62,7 +62,7 @@ sections:
     id: experience
     content:
       title: Experience
-      username: admin_work
+      username: index_work
     design:
       date_format: 'January 2006'
 
