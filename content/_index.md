@@ -9,6 +9,7 @@ design:
   spacing: '6rem' 
 
 sections:
+  # 1. Biography (like Sean's Hello section with interests and education)
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -16,27 +17,32 @@ sections:
       text: |-
         Hello!
 
-        I am a Research Scientist in International Relations at the University of Chicago. My work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. I am committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
-      # Show a call-to-action button under your biography
+        I am a Researcher in International Relations from the University of Chicago. My work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. I am committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
       button:
         text: Download my CV
         url: uploads/SobhaniMaryam_CV_2025.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
-        skills: ''
+        about: Hello!
+        education: Education
+        interests: Interests
     design:
-      # Apply a gradient background
       css_class: hbx-bg-gradient
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin
+    design:
+      columns: '1'
 
    # 3. Experience (comes after Skills)
   - block: markdown
-    id: experience.md
+    id: experience
     content:
       title: 'Experience'
     design:

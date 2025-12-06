@@ -40,12 +40,14 @@ interests:
   - International Organizations
 
 skills:
-  - Python
-  - R
-  - Data Analysis
-  - Text Analysis
-  - Data Visualization
-  - Mixed-Methods Research Design
+  - name: Skills
+    items:
+      - name: Python
+      - name: R
+      - name: Data Analysis
+      - name: Text Analysis
+      - name: Data Visualization
+      - name: Mixed-Methods Research Design
 
 education:
   - area: MA International Relations
