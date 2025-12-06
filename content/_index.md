@@ -16,8 +16,8 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download my resumé or Academic CV
-        url: uploads/resume.pdf
+        text: Download my CV
+        url: uploads/SobhaniMaryam_CV_2025.pdf
       headings:
         about: ''
         education: ''
@@ -30,7 +30,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
-    id: experience.md
+    id: experience
     content:
       title: 'Experience'
     design:
@@ -57,9 +57,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: presentations
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       filters:
         folders:
           - events

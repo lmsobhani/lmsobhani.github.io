@@ -34,10 +34,10 @@ profiles:
     url: https://orcid.org/0009-0009-3754-059X
 
 interests:
-  International Relations
-  Human Rights
-  Public Opinion
-  International Organizations
+  - International Relations
+  - Human Rights
+  - Public Opinion
+  - International Organizations
 
 education:
   - area: MA International Relations
@@ -100,7 +100,6 @@ languages:
 
 
 # Awards.
-#   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
