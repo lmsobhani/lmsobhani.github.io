@@ -30,16 +30,39 @@ sections:
       avatar:
         size: medium
         shape: circle
-
-#2. Skills
-  - block: skills
+# 2. Skills
+  - block: features
     id: skills
     content:
       title: Skills
-      text: ''
-      username: admin
-    design:
-      columns: '3'
+      items:
+        - name: Python
+          icon: python
+          icon_pack: fab
+
+        - name: R
+          icon: r-project
+          icon_pack: fab
+
+        - name: Data Analysis
+          icon: chart-line
+          icon_pack: fas
+
+        - name: Text Analysis
+          icon: language
+          icon_pack: fas
+
+        - name: Data Visualization
+          icon: chart-bar
+          icon_pack: fas
+
+        - name: Mixed-Methods Research Design
+          icon: grip-horizontal
+          icon_pack: fas
+      design:
+       columns: 3
+
+
 
    # 3. Experience (comes after Skills)
   - block: markdown

@@ -39,16 +39,6 @@ interests:
   - Public Opinion
   - International Organizations
 
-skills:
-  - name: Skills
-    items:
-      - name: Python
-      - name: R
-      - name: Data Analysis
-      - name: Text Analysis
-      - name: Data Visualization
-      - name: Mixed-Methods Research Design
-
 education:
   - area: MA International Relations
     institution: University of Chicago
