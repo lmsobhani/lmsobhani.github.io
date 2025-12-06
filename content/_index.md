@@ -32,7 +32,7 @@ sections:
         shape: circle
 
 #2. Skills
-  - block: markdown
+  - block: skills
     id: skills
     content:
       title: Skills
