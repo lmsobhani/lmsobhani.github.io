@@ -65,11 +65,10 @@ sections:
     content:
       title: Experience
       username: admin
+      filters:
+        section: work
     design:
       date_format: 'January 2006'
-      education_duration: end
-      is_education_first: false
-
 
   - block: collection
     id: papers
