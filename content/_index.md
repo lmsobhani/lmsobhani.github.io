@@ -55,18 +55,14 @@ sections:
           icon: hero/arrows-pointing-in
       design:
        columns: 3
-       css_class: 'max-width: 900px; margin: 0 auto; text-align: center;'
-
-
+       css_class: "bg-gray-50 py-12"
 
 # 3. Experience (timeline, like the Experience page)
   - block: resume-experience
     id: experience
     content:
       title: Experience
-      username: admin
-      filters:
-        section: work
+      username: admin_work
     design:
       date_format: 'January 2006'
 
