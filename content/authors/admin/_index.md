@@ -39,12 +39,19 @@ interests:
   - Public Opinion
   - International Organizations
 
+skills:
+  - Python
+  - R
+  - Data Analysis
+  - Text Analysis
+  - Data Visualization
+  - Mixed-Methods Research Design
+
 education:
   - area: MA International Relations
     institution: University of Chicago
     icon: ""
-    date_start: 2025-08-22
-    date_end: 2024-09-30
+    date_end: 2025-08
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -53,7 +60,6 @@ education:
   - area: BA Law
     institution: University of Arizona
     icon: ""
-    date_start: 2015-08-24
     date_end: 2019-05-15
     summary: |
       GPA: 3.88/4.0

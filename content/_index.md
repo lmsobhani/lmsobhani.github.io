@@ -13,8 +13,11 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      text: |-
+        Hello!
+
+        I am a Research Scientist in International Relations at the University of Chicago. My work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. I am committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
+      # Show a call-to-action button under your biography
       button:
         text: Download my CV
         url: uploads/SobhaniMaryam_CV_2025.pdf
@@ -29,12 +32,25 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
+  - block: skills
+    id: skills
+    content:
+      title: Skills
+      text: ''
+      # Use the skills from content/authors/admin/_index.md
+      username: admin
+    design:
+      columns: '2'
+
+  # 3. Experience (comes after Skills)
   - block: markdown
-    id: experience
+    id: experience.md
     content:
       title: 'Experience'
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
