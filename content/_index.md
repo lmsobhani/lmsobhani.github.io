@@ -31,14 +31,15 @@ sections:
         size: medium
         shape: circle
 
-  - block: skills
+#2. Skills
+  - block: markdown
     id: skills
     content:
       title: Skills
       text: ''
       username: admin
     design:
-      columns: '1'
+      columns: '3'
 
    # 3. Experience (comes after Skills)
   - block: markdown
