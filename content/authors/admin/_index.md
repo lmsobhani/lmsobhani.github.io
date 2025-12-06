@@ -84,21 +84,6 @@ work:
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        icon: cloud
-
 languages:
   - name: English
   - name: Farsi (Persian)
