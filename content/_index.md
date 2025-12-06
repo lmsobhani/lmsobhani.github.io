@@ -25,6 +25,7 @@ sections:
         about: ''
         education: ''
         interests: ''
+        skills: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -33,17 +34,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Use the skills from content/authors/admin/_index.md
-      username: admin
-    design:
-      columns: '2'
-
-  # 3. Experience (comes after Skills)
+   # 3. Experience (comes after Skills)
   - block: markdown
     id: experience.md
     content:
