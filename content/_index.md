@@ -37,30 +37,25 @@ sections:
       title: Skills
       items:
         - name: Python
-          icon: python
-          icon_pack: fab
+          icon: brands/python
 
         - name: R
-          icon: r-project
-          icon_pack: fab
+          icon: brands/r
 
         - name: Data Analysis
-          icon: chart-line
-          icon_pack: fas
+          icon: hero/chart-line
 
         - name: Text Analysis
-          icon: language
-          icon_pack: fas
+          icon: hero/language
 
         - name: Data Visualization
-          icon: chart-bar
-          icon_pack: fas
+          icon: hero/chart-bar
 
         - name: Mixed-Methods Research Design
-          icon: grip-horizontal
-          icon_pack: fas
+          icon: hero/squares-2x2
       design:
        columns: 3
+       css_class: "max-w-5xl mx-auto"
 
 
 
