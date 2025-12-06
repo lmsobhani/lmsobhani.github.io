@@ -51,7 +51,8 @@ education:
   - area: MA International Relations
     institution: University of Chicago
     icon: ""
-    date_end: 2025-08
+    date_start: 2024-09-30
+    date_end: 2025-08-22
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -60,10 +61,10 @@ education:
   - area: BA Law
     institution: University of Arizona
     icon: ""
+    date_start: 2015-08-22
     date_end: 2019-05-15
     summary: |
       GPA: 3.88/4.0
-
       Minored in Astronomy.
 
 work:
@@ -83,6 +84,7 @@ work:
     date_end: 2019-05-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
 
 languages:
   - name: English
