@@ -29,3 +29,4 @@ work:
     date_end: 2019-05-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+---
