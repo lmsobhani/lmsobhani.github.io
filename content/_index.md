@@ -17,7 +17,7 @@ sections:
       text: |-
         Hello!
 
-        I am a Researcher in International Relations from the University of Chicago. My work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. I am committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
+        I am a Political Scientist specializing in the Middle East, International Law, and human rights from the University of Chicago. My work centers on how governments communicate with foreign publics, how naming and shaming shapes state behavior, and how citizens respond to international pressure. I am committed to producing research that supports policymakers, analysts, and practitioners who work on foreign policy, democracy, and human rights.
       button:
         text: Download my CV
         url: uploads/SobhaniMaryam_CV_2025.pdf
