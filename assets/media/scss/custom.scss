@@ -1,0 +1,15 @@
+/* Make each experience entry look like a card with padding + shadow */
+.hb-timeline-entry, 
+.hb-timeline-item, 
+.hb-timeline-list > li {
+  background-color: #ffffff !important;
+  border-radius: 1rem !important;
+  padding: 1.5rem 2rem !important;
+  margin-bottom: 2rem !important;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08) !important;
+}
+
+/* Push the content slightly away from the left icon/timeline line */
+.hb-timeline-content {
+  margin-left: 0.5rem !important;
+}
