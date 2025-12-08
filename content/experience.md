@@ -11,14 +11,14 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    id: experience
     content:
+      title: Experience
       username: admin_work
     design:
-      # Hugo date format
+      view: card
+      columns: 2
       date_format: 'January 2006'
-      # Education or Experience section first?
-      education_duration: end
-      is_education_first: false
   - block: resume-skills
     content:
       title: Skills
