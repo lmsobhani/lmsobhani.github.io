@@ -64,6 +64,7 @@ sections:
       title: Experience
       username: admin_work
     design:
+      view: card
       columns: 2
       date_format: 'January 2006'
 
