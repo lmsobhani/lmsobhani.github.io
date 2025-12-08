@@ -2,14 +2,25 @@
 .hb-timeline-entry, 
 .hb-timeline-item, 
 .hb-timeline-list > li {
-  background-color: #ffffff !important;
+  background-color: #fff !important;
   border-radius: 1rem !important;
   padding: 1.5rem 2rem !important;
   margin-bottom: 2rem !important;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08) !important;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08) !important;
 }
 
-/* Push the content slightly away from the left icon/timeline line */
-.hb-timeline-content {
-  margin-left: 0.5rem !important;
+/* Left-align all section titles instead of centered */
+.hb-section-title {
+  text-align: left !important;
+  margin-left: 0 !important;
 }
+
+/* Shift timeline content to the right side of the page */
+.hb-timeline {
+  margin-left: 3rem !important;   /* adjust as needed */
+}
+
+.hb-timeline-list {
+  padding-left: 2rem !important;  /* moves cards further right */
+}
+
