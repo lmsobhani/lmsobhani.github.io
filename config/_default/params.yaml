@@ -60,8 +60,26 @@ features:
     enable: false
 hugoblox:
   theme:
-    pack: minimal
+    pack: synthwave
   typography:
     size: lg
+    font: serif
   layout:
     spacing: compact
+  identity:
+    name: Maryam Sobhani
+    tagline: Political Scientist | International Relations
+    description: Maryam Sobhani is a Political Scientist, specializing in International Relations with a strong interest in the Middle East and Human Rights.
+  content:
+    citations:
+      style: chicago
+  seo:
+    title: Maryam Sobhani | Politican Scientist | International Relations
+    location:
+      address:
+        street: 1333 Powell St.
+        city: Emeryville
+        region: CA
+        postal_code: "94608"
+        country: US
+      phone: +1 520 477 1007
