@@ -61,6 +61,11 @@ features:
 hugoblox:
   theme:
     pack: synthwave
+    colors_light:
+      primary: gray
+    colors:
+      primary: blue
+    mode: dark
   typography:
     size: lg
     font: serif
